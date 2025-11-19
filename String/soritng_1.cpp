@@ -9,4 +9,8 @@ int main(){
     cout<< x << " ";
   }
   return 0;
+
 }
+
+#output 1 4 5 5 6 7 8 9
+#This code sorts the vector in ascending order using the default sort() function, which arranges elements from smallest to largest
