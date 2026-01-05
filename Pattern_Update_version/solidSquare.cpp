@@ -3,6 +3,12 @@ using namespace std;
 
 int main()
 {
+/* output 4*4
+* * * * 
+* * * * 
+* * * * 
+* * * *  
+*/
     for(int i=1;i<=4;i++){ // outer loop for rows
       for(int j=1;j<=4;j++){ // inner loop for columns
         cout<<"* ";
@@ -11,4 +17,5 @@ int main()
     }
 
        return 0;
+
 }
